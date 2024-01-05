@@ -2,7 +2,7 @@
 <h2 align="center" style="font-weight: bold;"> The Pomodoro Timer App for Students </h2>
 
 <p align="center">
-<img src="LearnoDoroLogo1.png" alt="LearnoDoro Logo" width="200"/>
+<img src="docs/LearnoDoroLogo1.png" alt="LearnoDoro Logo" width="200"/>
 </p>
 
 For the everyday student grinding through lectures, assignments, and group projects, who struggles with time management and seeks tangible proof of their dedication, LearnoDoro is the solution. It offers a customized study regiment enriched by insightful feedback. While numerous other timer apps exist, most offer just basic timer functionality and miss out on the analytics on how your time is spent. LearnoDoro ensures that students (and whoever finds good use of it) gain a comprehensive overview of precisely how their study hours are allocated.
